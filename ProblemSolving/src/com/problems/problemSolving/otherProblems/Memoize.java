@@ -1,4 +1,4 @@
-package com.problems.problemSolving.recursionAndDynamicProgramming;
+package com.problems.problemSolving.otherProblems;
 
 public class Memoize {
     public static void main(String[] args) {
@@ -14,7 +14,6 @@ public class Memoize {
         System.out.println("Factorial of 7:");
         System.out.println(factorial.calculate(7));
         System.out.println("Cache Size: " + factorial.getMemoizeCache().size());
-        System.out.println("Cache: " + factorial.getMemoizeCache());
         System.out.println("Cache: " + factorial.getMemoizeCache());
 
     }

@@ -1,4 +1,4 @@
-package com.problems.problemSolving.recursionAndDynamicProgramming;
+package com.problems.problemSolving.otherProblems;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,12 +10,10 @@ public class Factorial {
     public Integer calculate(Integer input) {
 
         if (input == 0) {
-        	//System.out.println("memoizeCache.size() : " + memoizeCache.size() + " input : " + input );
-
             return 1;
         } else {
             if (memoizeCache.size() >= input) {
-                System.out.println("Retrieved from cache: " + input + "memoizeCache.get(input - 1) =======" + memoizeCache.get(input - 1));
+                System.out.println("Retrieved from cache: " + input);
                 return memoizeCache.get(input - 1);
             }
             System.out.println("Calculate for input:" + input);
