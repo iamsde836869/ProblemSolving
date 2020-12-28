@@ -1,4 +1,4 @@
-package com.problems.problemSolving.otherProblems;
+package com.problems.problemSolving.roughDraftPrograms;
 
 import java.util.ArrayList;
 import java.util.List;

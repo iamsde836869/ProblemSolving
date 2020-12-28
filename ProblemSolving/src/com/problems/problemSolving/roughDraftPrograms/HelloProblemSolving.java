@@ -1,4 +1,4 @@
-package com.problems.problemSolving.otherProblems;
+package com.problems.problemSolving.roughDraftPrograms;
 
 class HelloProblemSolving {
         static int MatrixChainOrder(int p[], int n)

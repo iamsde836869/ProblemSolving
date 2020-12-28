@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.problems.problemSolving.otherProblems;
+package com.problems.problemSolving.roughDraftPrograms;
 
 /**
  * @author code2

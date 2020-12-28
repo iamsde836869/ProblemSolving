@@ -1,4 +1,4 @@
-package com.problems.problemSolving.otherProblems;
+package com.problems.problemSolving.roughDraftPrograms;
 
 public class Memoize {
     public static void main(String[] args) {
