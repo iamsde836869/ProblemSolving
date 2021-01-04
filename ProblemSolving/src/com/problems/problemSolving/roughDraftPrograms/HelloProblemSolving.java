@@ -32,5 +32,8 @@ class HelloProblemSolving {
 
         System.out.println("Minimum number of multiplications is "
                 + MatrixChainOrder(arr, size));
+        String s1="abc";
+        System.out.print("\n" + s1.toCharArray()[2] + s1.length());
+        
     }
 }

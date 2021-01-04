@@ -67,7 +67,8 @@ public class ArrayListImplemen {
     System.out.println("\n" + timediff(ll));
     System.out.println("\n" + timediff(al));
  	//System.out.print("\n" + abc.getClass() + abc);
-	
+	ArrayList<ArrayList<Integer>> lcsdp=new ArrayList<ArrayList<Integer>>();
+	System.out.println(lcsdp);
 	}
 
 }
